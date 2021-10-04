@@ -1,2 +1,3 @@
-print('Я научился создавать ветки')
-print()
+a = int(input('введите значение а: '))
+print(a)
+print(type(a))
